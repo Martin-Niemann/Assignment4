@@ -1,0 +1,13 @@
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment4.exe
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment4.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment4.deps.json
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment4.runtimeconfig.json
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment4.pdb
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment1.dll
+D:\OneDrive - Zealand\3rd Semester\Mandatory Assignment 1\Assignment 4\Assignment4\Assignment4\obj\Release\net6.0\PubTmp\Out\Assignment1.pdb
