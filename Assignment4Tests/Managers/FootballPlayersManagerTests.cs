@@ -28,12 +28,7 @@ namespace Assignment4.Managers.Tests
             Assert.AreEqual(5, manager.GetAll().Count());
         }
 
-        [TestMethod()]
-        public void GetByIDTest()
-        {
-            FootballPlayer eriksen = new FootballPlayer() { Id = 1, Name = "Christian Eriksen", ShirtNumber = 14, Age = 30 };
-            Assert.IsTrue(compareLogic.Compare(manager.GetByID(eriksen.Id), eriksen).AreEqual);
-        }
+        
 
         [TestMethod()]
         public void AddTest()
@@ -44,16 +39,7 @@ namespace Assignment4.Managers.Tests
             Assert.IsTrue(compareLogic.Compare(manager.GetByID(6), expectedStryger).AreEqual);
         }
 
-        [TestMethod()]
-        public void UpdateAllTest()
-        {
-            FootballPlayer ronaldo = new FootballPlayer() { Id = -10000, Name = "Cristiano Ronaldo", ShirtNumber = 7, Age = 37 };
-            FootballPlayer expectedRonaldo = new FootballPlayer() { Id = 1, Name = "Cristiano Ronaldo", ShirtNumber = 7, Age = 37 };
-            FootballPlayer actualRonaldo = manager.Update(1, ronaldo);
-            ComparisonResult result = compareLogic.Compare(actualRonaldo, expectedRonaldo);
-            bool resultMessage = result.AreEqual;
-            Assert.IsTrue(resultMessage);
-        }
+        
 
         [TestMethod()]
         public void DeleteTest()
